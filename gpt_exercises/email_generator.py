@@ -2,7 +2,7 @@ from langchain.prompts import PromptTemplate
 from langchain_openai import OpenAI
 
 llm = OpenAI(
-    openai_api_key='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',
+    openai_api_key='',
     temperature=0.0
 )
 
